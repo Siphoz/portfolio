@@ -8,11 +8,26 @@ Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 - Certicate., Data Science & AI | Lewagon Coding School (April 2023)
 
 ### Work Experience
-Cost Data Engineer @ Heieneken Global, Amsterdam (Jan 2024 - Present)
+Cost Engineer (Data Analsyts Focus) @ Heieneken Global, Amsterdam (Jan 2024 - Present)
 
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
+Capital Cost Estimate (CCE) - Capability Developemnt Project
+- Developed and deployed machine learning models to enhance cost forecasting, improving estimation accuracy by 80%.
+- Engineered and migrated historical cost data into a centralized database, ensuring 100% data integrity for analytics and decision-making.
+- Applied advanced statistical methods to detect and correct inconsistencies in cost data, resolving errors affecting 80% of cost models.
+- Designed and automated a Power BI Equipment Pricelist Dashboard, enabling real-time CAPEX estimation for project managers and engineers.
+- Led training sessions globally for Heineken’s Operating Companies on cost modeling, data validation, and predictive analytics.
+- Optimized the Greenfield Benchmark framework, integrating key metrics for improved CAPEX project comparisons.
+
+Key Responsibilities
+- Building and maintaining cost estimation models using Python, SQL, and Power BI.
+- Conducting exploratory data analysis (EDA) to identify trends in cost data and support CAPEX decision-making.
+- Generating automated Cost Control & Cash Flow reports for live projects, reducing manual effort.
+- Developing interactive dashboards and reports in Power BI & Python, providing actionable insights to senior management.
+
+
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
+- 
 
 Data Science Consultant @ Shawhin Talebi Ventures LLC (December 2020 - Present)
 
