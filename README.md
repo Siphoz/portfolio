@@ -1,6 +1,6 @@
 # Portfolio
 
-Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+Technical Skills: Python, SQL, AWS, Snowflake, Machine & Deep Learning, 
 
 ### Education
 - MSc., Wastewater Engineering | IHE Delft Institute for Water Education (May 2022)
@@ -8,7 +8,7 @@ Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 - Certicate., Data Science & AI | Lewagon Coding School (April 2023)
 
 ### Work Experience
-Cost Engineer (Data Analsyts Focus) @ Heieneken Global, Amsterdam (Jan 2024 - Present)
+Cost Data Consultant @ Heieneken Global, Amsterdam (Jan 2024 - Present)
 
 Capital Cost Estimate (CCE) - Capability Developemnt Project
 - Developed and deployed machine learning models to enhance cost forecasting, improving estimation accuracy by 80%.
@@ -25,40 +25,20 @@ Key Responsibilities
 - Developing interactive dashboards and reports in Power BI & Python, providing actionable insights to senior management.
 
 
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+### Cost Consultant (Data Analsyis focus) @ Cleopatra Enterprise (Jan 2023 - Present)
+- Conducted data collection, processing, and analysis the cost data for more than 10 000 equipment used in Oil and Gas industry, impacting of over 10 000 cost models.
+- Applied supervised deep learning approaches to developing a Deep learning Python cost model to predict the cost of valves based on few training data.
+- Data-Driven Cost models with Decision Trees
 
-- 
+## Projects
 
-Data Science Consultant @ Shawhin Talebi Ventures LLC (December 2020 - Present)
+Cost of Valves based on Desicion Trees
+Developed objective strategy for predicting the cost of valves using Python. This data-driven approach led to better characterization of the type of valves. The proposed method provides a fully automated and flexible approach to capturing key cost and possibly discovering new cost drivers.
 
-Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-Projects
-Data-Driven EEG Band Discovery with Decision Trees
-Publication
-
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using Python. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-EEG Band Discovery
 
 Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 Publication
 
-Used Matlab to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Used Python to train over 100 machine learning models which estimated the cost of valves based on a suite of over 30 variables. We found variables can be used to accurately estimate the cost with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring steel conditions measurements allows us to disentangle key interactions between the environment and the body.
 
-Bike Study
 
-Talks & Lectures
-Causality: The new science of an old question - GSP Seminar, Fall 2021
-
-Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-
-Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-
-A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-
-Weeks of Welcome Poster Competition - UTD, Fall 2019
-
-A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-Data Science YouTube
