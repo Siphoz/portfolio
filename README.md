@@ -10,7 +10,13 @@ Technical Skills: Python, SQL, AWS, Snowflake, Machine & Deep Learning,
 ### Work Experience
 Cost Data Consultant @ Heieneken Global, Amsterdam (Jan 2024 - Present)
 
-Capital Cost Estimate (CCE) - Capability Developemnt Project
+Key Responsibilities
+- Building and maintaining cost estimation models using Python, SQL, and Power BI.
+- Conducting exploratory data analysis (EDA) to identify trends in cost data and support CAPEX decision-making.
+- Generating automated Cost Control & Cash Flow reports for live projects, reducing manual effort.
+- Developing interactive dashboards and reports in Power BI & Python, providing actionable insights to senior management.
+  
+Highlight Project: Capital Cost Estimate (CCE) - Capability Developemnt Project
 - Developed and deployed machine learning models to enhance cost forecasting, improving estimation accuracy by 80%.
 - Engineered and migrated historical cost data into a centralized database, ensuring 100% data integrity for analytics and decision-making.
 - Applied advanced statistical methods to detect and correct inconsistencies in cost data, resolving errors affecting 80% of cost models.
@@ -18,23 +24,14 @@ Capital Cost Estimate (CCE) - Capability Developemnt Project
 - Led training sessions globally for Heineken’s Operating Companies on cost modeling, data validation, and predictive analytics.
 - Optimized the Greenfield Benchmark framework, integrating key metrics for improved CAPEX project comparisons.
 
-Key Responsibilities
-- Building and maintaining cost estimation models using Python, SQL, and Power BI.
-- Conducting exploratory data analysis (EDA) to identify trends in cost data and support CAPEX decision-making.
-- Generating automated Cost Control & Cash Flow reports for live projects, reducing manual effort.
-- Developing interactive dashboards and reports in Power BI & Python, providing actionable insights to senior management.
-
-
 ### Cost Consultant (Data Analsyis focus) @ Cleopatra Enterprise (Jan 2023 - Present)
 - Conducted data collection, processing, and analysis the cost data for more than 10 000 equipment used in Oil and Gas industry, impacting of over 10 000 cost models.
 - Applied supervised deep learning approaches to developing a Deep learning Python cost model to predict the cost of valves based on few training data.
 - Data-Driven Cost models with Decision Trees
 
-## Projects
-
-Cost of Valves based on Desicion Trees
+Highlight Project(s)
+Cost of Valves based on Desicion Trees Project
 Developed objective strategy for predicting the cost of valves using Python. This data-driven approach led to better characterization of the type of valves. The proposed method provides a fully automated and flexible approach to capturing key cost and possibly discovering new cost drivers.
-
 
 Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 Publication
